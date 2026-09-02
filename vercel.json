@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/:path*",
-      "destination": "https://jerymotro.duckdns.org/:path*",
-      "permanent": true
-    }
-  ]
-}
